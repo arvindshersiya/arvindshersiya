@@ -26,12 +26,13 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvindshersiya&show_icons=true&locale=en&layout=compact" alt="arvindshersiya"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=arvindshersiya&show_icons=true&locale=en&layout=compact" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvindshersiya&show_icons=true&locale=en&layout=compact" alt="xd" width="350" height="113"/> </a>
 <br/>
 <br/>
+<a href="https://github-readme-stats.vercel.app/api?username=arvindshersiya&show_icons=true&locale=en" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api?username=arvindshersiya&show_icons=true&locale=en" alt="arvindshersiya" width="500" height="200"/> </a>
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=arvindshersiya&show_icons=true&locale=en" alt="arvindshersiya" />
+
 
 
 <!---
